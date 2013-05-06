@@ -1,11 +1,8 @@
 name    'KyleAnderson-uci'
 version '0.0.1'
-source 'UNKNOWN'
-author 'KyleAnderson'
+source 'https://github.com/solarkennedy/puppet-uci'
+author 'Kyle Anderson'
 license 'Apache License, Version 2.0'
-summary 'UNKNOWN'
-description 'UNKNOWN'
-project_page 'UNKNOWN'
-
-## Add dependencies, if any:
-# dependency 'username/name', '>= 1.2.0'
+summary 'Module for defining OpenWrt UCI settings'
+description 'Module for defining OpenWrt UCI settings'
+project_page 'https://github.com/solarkennedy/puppet-uci'
