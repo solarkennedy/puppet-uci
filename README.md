@@ -28,4 +28,4 @@ Kyle Anderson <kyle@xkyle.com>
 
 Support
 -------
-Please log tickets and issues at our [Projects site](http://projects.example.com)
+Please log tickets and issues at our [Projects site](https://github.com/solarkennedy/puppet-uci)
