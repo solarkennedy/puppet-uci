@@ -1,5 +1,7 @@
 uci
 
+[![Build Status](https://travis-ci.org/solarkennedy/puppet-uci.png)](https://travis-ci.org/solarkennedy/puppet-uci)
+
 This is the uci module.
 It sets up defines to make it easier to manage anything you would normally
 set using the "uci" command in OpenWrt.
