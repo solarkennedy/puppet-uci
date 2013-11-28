@@ -1,5 +1,5 @@
 name    'KyleAnderson-uci'
-version '0.0.1'
+version '0.0.3'
 source 'https://github.com/solarkennedy/puppet-uci'
 author 'Kyle Anderson'
 license 'Apache License, Version 2.0'
