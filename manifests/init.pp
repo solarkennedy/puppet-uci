@@ -20,7 +20,7 @@
 #
 
 define uci($value){
-  exec { "/sbin/uci set ${name}=${value}":
+  exec { "/sbin/uci set ${name}=\"${value}\"":
     unless => "/sbin/uci get ${name} | grep ^${value}$",
     notify => Exec['/sbin/uci commit']
   }
